@@ -1,2 +1,2 @@
 This folder contains some graph algorithms :
- - Strongly Connected Components Detection
+ - Kosaraju's Algorithm (Strongly Connected Components Detection)
